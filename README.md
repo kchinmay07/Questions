@@ -1,12 +1,17 @@
 # Questions
+![image](https://github.com/OpenSourceHelpCommunity/Questions/assets/166136178/6aaa6431-2d13-4635-a110-9350263ab390)
 
 
-Ask us questions about **anything** related to Open Source! To add your question, create an issue in this repository.
+Hi 
 
-Just a few guidelines to remember before you ask a question:
+after successfull login into dynamics 365
 
-- Ensure your question hasn't already been answered. If it has been answered but does not satisfy you, feel free to comment in the issue and we will re-open it.
-- Use a succinct title and description.
-- If your question has already been asked and answered adequately, please add a thumbs-up (or the emoji of your choice!) to the issue. This helps us in identifying common problems that people usually face.
-- Lastly, be civil and polite. :)
+and after search using below command 
 
+xrmApp.Grid.Search "A datum corporation)
+
+ISSUE
+
+after this i want to click on Main phone (yellow highlighted)
+
+Can some help me which command to use - as i new to EASYREPRO FRAMEWORK
